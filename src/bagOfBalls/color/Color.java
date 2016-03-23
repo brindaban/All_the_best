@@ -1,4 +1,4 @@
-package bagOfBalls;
+package bagOfBalls.color;
 
 /**
  * Job of class :

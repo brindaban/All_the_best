@@ -1,4 +1,4 @@
-package exception;
+package bagOfBalls.exception;
 
 /**
  * Job of class :
